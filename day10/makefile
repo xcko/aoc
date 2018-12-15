@@ -1,0 +1,3 @@
+CFLAGS = -Werror
+
+align:
